@@ -8,6 +8,6 @@ def reverse_each_word(string)
      reverse.reverse
      reverse_string << reverse
    end
-
+reverse_string
    #my_array.to_s
 end
