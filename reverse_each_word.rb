@@ -1,3 +1,3 @@
 def reverse_each_word(string)
-  Array(string)
+   my_array = Array(string)
 end
