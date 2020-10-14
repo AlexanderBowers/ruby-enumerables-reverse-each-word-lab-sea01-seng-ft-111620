@@ -6,5 +6,5 @@ def reverse_each_word(string)
    my_array.map do |reverse|
      reverse.reverse
    end
-   my_array.to_s
+   #my_array.to_s
 end
