@@ -5,5 +5,7 @@ def reverse_each_word(string)
    #binding.pry
    my_array.map do |reverse|
      reverse.reverse
+     
    end
+   my_array.to_s
 end
