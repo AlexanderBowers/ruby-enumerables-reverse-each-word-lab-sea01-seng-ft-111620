@@ -6,6 +6,7 @@ def reverse_each_word(string)
    #binding.pry
    my_array.map do |reverse|
      reverse.reverse
+     reverse_string << reverse
    end
 
    #my_array.to_s
