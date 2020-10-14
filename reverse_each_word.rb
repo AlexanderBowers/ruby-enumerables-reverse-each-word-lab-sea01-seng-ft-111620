@@ -4,7 +4,7 @@ def reverse_each_word(string)
    my_array = string
    my_array = my_array.split
    #binding.pry
-   my_array.map do |reversed|
+  reverse_array =  my_array.map do |reversed|
      reversed.reverse
     # reverse_string << reversed
    end
